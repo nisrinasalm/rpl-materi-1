@@ -24,9 +24,6 @@ const mockData = [
   }
 ]
 
-/* TODO: we can also make the number of
-  columns customizable.
-*/
 const getColumnSection = () => (
   <section className="columns">
     <Column
